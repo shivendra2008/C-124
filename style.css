@@ -1,0 +1,25 @@
+.header_btn {
+    font-size: 25px;
+    box-shadow: 1px 1px 50px hsl(160, 100%, 50%);;
+}
+.footer_div {
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: #7eca03;
+    line-height: 3;
+    text-align: center;
+}
+canvas {
+    border: 5px solid white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 30px hsl(160, 91%, 42%);
+}
+#square_side {
+    font-size: 15px;
+}
+.note {
+    font-size: 15px;
+    color: white;
+}
